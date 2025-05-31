@@ -1,7 +1,7 @@
 # as user
 sch: https://www.google.com/search?q=bash+write+multiple+lines+to+file
 
-https://stackoverflow.com/questions/7875540/how-to-write-multiple-line-string-using-bash-with-variables
+Solution: https://stackoverflow.com/questions/7875540/how-to-write-multiple-line-string-using-bash-with-variables
 
 # as Sudo
 sch: https://www.google.com/search?q=bash+sudo+Here+Document
